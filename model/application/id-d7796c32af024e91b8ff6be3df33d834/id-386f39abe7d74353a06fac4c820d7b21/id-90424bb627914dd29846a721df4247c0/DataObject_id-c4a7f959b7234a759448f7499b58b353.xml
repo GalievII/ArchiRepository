@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Код"
+    id="id-c4a7f959b7234a759448f7499b58b353">
+  <properties
+      key="Тип данных"
+      value="Числовой"/>
+</archimate:DataObject>
